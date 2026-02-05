@@ -1,0 +1,15 @@
+/root/Algorithm/Assignment1/DAT600/Assignment1/Task2/csharp/InsertionSort/bin/Debug/net8.0/InsertionSort
+/root/Algorithm/Assignment1/DAT600/Assignment1/Task2/csharp/InsertionSort/bin/Debug/net8.0/InsertionSort.deps.json
+/root/Algorithm/Assignment1/DAT600/Assignment1/Task2/csharp/InsertionSort/bin/Debug/net8.0/InsertionSort.runtimeconfig.json
+/root/Algorithm/Assignment1/DAT600/Assignment1/Task2/csharp/InsertionSort/bin/Debug/net8.0/InsertionSort.dll
+/root/Algorithm/Assignment1/DAT600/Assignment1/Task2/csharp/InsertionSort/bin/Debug/net8.0/InsertionSort.pdb
+/root/Algorithm/Assignment1/DAT600/Assignment1/Task2/csharp/InsertionSort/obj/Debug/net8.0/InsertionSort.GeneratedMSBuildEditorConfig.editorconfig
+/root/Algorithm/Assignment1/DAT600/Assignment1/Task2/csharp/InsertionSort/obj/Debug/net8.0/InsertionSort.AssemblyInfoInputs.cache
+/root/Algorithm/Assignment1/DAT600/Assignment1/Task2/csharp/InsertionSort/obj/Debug/net8.0/InsertionSort.AssemblyInfo.cs
+/root/Algorithm/Assignment1/DAT600/Assignment1/Task2/csharp/InsertionSort/obj/Debug/net8.0/InsertionSort.csproj.CoreCompileInputs.cache
+/root/Algorithm/Assignment1/DAT600/Assignment1/Task2/csharp/InsertionSort/obj/Debug/net8.0/InsertionSort.sourcelink.json
+/root/Algorithm/Assignment1/DAT600/Assignment1/Task2/csharp/InsertionSort/obj/Debug/net8.0/InsertionSort.dll
+/root/Algorithm/Assignment1/DAT600/Assignment1/Task2/csharp/InsertionSort/obj/Debug/net8.0/refint/InsertionSort.dll
+/root/Algorithm/Assignment1/DAT600/Assignment1/Task2/csharp/InsertionSort/obj/Debug/net8.0/InsertionSort.pdb
+/root/Algorithm/Assignment1/DAT600/Assignment1/Task2/csharp/InsertionSort/obj/Debug/net8.0/InsertionSort.genruntimeconfig.cache
+/root/Algorithm/Assignment1/DAT600/Assignment1/Task2/csharp/InsertionSort/obj/Debug/net8.0/ref/InsertionSort.dll

@@ -1,0 +1,14 @@
+D:\courses\Semester2\Algorithm theory\Assignments\Assignment1\csharp\InsertionSort\bin\Debug\net10.0\InsertionSort.exe
+D:\courses\Semester2\Algorithm theory\Assignments\Assignment1\csharp\InsertionSort\bin\Debug\net10.0\InsertionSort.deps.json
+D:\courses\Semester2\Algorithm theory\Assignments\Assignment1\csharp\InsertionSort\bin\Debug\net10.0\InsertionSort.runtimeconfig.json
+D:\courses\Semester2\Algorithm theory\Assignments\Assignment1\csharp\InsertionSort\bin\Debug\net10.0\InsertionSort.dll
+D:\courses\Semester2\Algorithm theory\Assignments\Assignment1\csharp\InsertionSort\bin\Debug\net10.0\InsertionSort.pdb
+D:\courses\Semester2\Algorithm theory\Assignments\Assignment1\csharp\InsertionSort\obj\Debug\net10.0\InsertionSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\courses\Semester2\Algorithm theory\Assignments\Assignment1\csharp\InsertionSort\obj\Debug\net10.0\InsertionSort.AssemblyInfoInputs.cache
+D:\courses\Semester2\Algorithm theory\Assignments\Assignment1\csharp\InsertionSort\obj\Debug\net10.0\InsertionSort.AssemblyInfo.cs
+D:\courses\Semester2\Algorithm theory\Assignments\Assignment1\csharp\InsertionSort\obj\Debug\net10.0\InsertionSort.csproj.CoreCompileInputs.cache
+D:\courses\Semester2\Algorithm theory\Assignments\Assignment1\csharp\InsertionSort\obj\Debug\net10.0\InsertionSort.dll
+D:\courses\Semester2\Algorithm theory\Assignments\Assignment1\csharp\InsertionSort\obj\Debug\net10.0\refint\InsertionSort.dll
+D:\courses\Semester2\Algorithm theory\Assignments\Assignment1\csharp\InsertionSort\obj\Debug\net10.0\InsertionSort.pdb
+D:\courses\Semester2\Algorithm theory\Assignments\Assignment1\csharp\InsertionSort\obj\Debug\net10.0\InsertionSort.genruntimeconfig.cache
+D:\courses\Semester2\Algorithm theory\Assignments\Assignment1\csharp\InsertionSort\obj\Debug\net10.0\ref\InsertionSort.dll
